@@ -483,3 +483,83 @@ footer ul {
 .processos .hide {
     display: none;
 }
+
+/* ORGANOGRAMAS */
+
+#organogramas .arquivos {
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    margin-left: 50%;
+}
+
+#organogramas .container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+#organogramas.container a,
+#organogramas button {
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 10px 30px;
+    border: 3px solid rgb(17, 15, 20);
+    border-radius: 10px;
+    background: transparent;
+    margin-top: 10px;
+    color: #060608;
+
+}
+
+#organogramas label {
+    font-weight: 700;
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+#organogramas .btn {
+    width: 500px;
+    border: 2px dashed rgb(12, 11, 14) !important;
+    font-size: 19px;
+    font-weight: 700;
+    color: #131010;
+    text-align: center;
+    padding: 20px 40px;
+
+}
+
+#organogramas .upload-btn input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+
+#organogramas .upload_img {
+    display: inline-block;
+    border: 3px solid rgb(2, 2, 3);
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    vertical-align: middle;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+#organogramas .input-file-upload {
+    display: flex;
+    flex-direction: column;
+}
+
+#organogramas .upload-btn {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
