@@ -45,6 +45,15 @@ Tela de Cadastro de Colaboradores:
 8.	Clicar no botão “Remover”, conferir no “popup” de alerta se a opção a ser removida está correta e clicar no botão “Sim”, caso contrário clicar no botão “Não”
 9.	Clicar no botão “Voltar”, para retornar à página principal.
 
+Tela de organograma:
+
+1.	Após realizar o acesso ao site através do login o usuário deverá localizar no menu de navegação lateral o campo “Organogramas” e clicar neste campo;
+2.	Ao ser direcionado para a página de organogramas o usuário deverá localizara o botão de buscar imagens e selecioná-lo clicando no botão;
+3.	Ao clicar no botão deverá localizar o arquivo de extensão JPG desejado e clicar duas vezes ou clicar no campo destinado para a escolha do arquivo desejado;
+4.	Será possível realizar a pré-visualização do arquivo desejado;
+5.	Clicar no botão para envio do arquivo desejado.
+
+
 Tela de Sugestões, Elogios e Suporte:
 
 1.	Após realizar o acesso ao site através do login, o usuário deverá localizar no menu de navegação lateral a opção “Sugestões/Ajuda” e clicar neste campo;
