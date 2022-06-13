@@ -23,19 +23,41 @@ O site está sendo desenvolvido para atuar como repositório de processos de neg
 
 ## Instruções de utilização
 
+Tela de Login:
+
 1. Abra um navegador de Internet e informe a seguinte URL para acessar o repositório no GitHub: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t11-gp6-gestao-de-processos/tree/main
-
 2. A primeira tela apresentada ao abrir o projeto é a Home Page, nela ainda não há funcionalidades.
-
 3. Para acessar a primeira funcionalidade basta clicar em “Entrar” no canto superior direito do site. É o penúltimo item da barra de navegação.
-
 4. A tela de login é a primeira funcionalidade exibida pelo aplicativo.
-
 5. Para testar, é necessário usar um login e uma senha pré-definidos, sendo o login admin@admin.com e a senha admin. Feito isso, clicando em entrar você verá que o login foi autenticado a partir da mensagem “logado com sucesso!”
-
 6. Após clicar em entrar aparecerá a autenticação por parte do JavaScript.
-
 7. Caso entre com dados diferentes dos pré-definidos no JavaScript, aparecerá a mensagem “usuário ou senha inválidos”.
+
+Tela de Cadastro de Colaboradores:
+
+1.	Acessar o Navegador;
+2.	Informar o endereço do Site;
+3.	Clicar no campo “Entrar”;
+4.	Informar credenciais de acesso (login e senha) nos campos indicados e clicar em “Enviar”;
+5.	Clicar na opção “Cadastro de Colaboradores” no menu lateral da página principal;
+6.	Clicar no botão “Adicionar”, preencher o formulário e clicar no botão “Salvar”, caso não desejar seguir com as alterações, clicar no botão “Cancelar”;
+7.	Clicar no botão “Editar”, alterar as informações desejadas no formulário e clicar no botão “Salvar”, caso não desejar seguir com as alterações, clicar no botão “Cancelar”;
+8.	Clicar no botão “Remover”, conferir no “popup” de alerta se a opção a ser removida está correta e clicar no botão “Sim”, caso contrário clicar no botão “Não”
+9.	Clicar no botão “Voltar”, para retornar à página principal.
+
+Tela de Sugestões, Elogios e Suporte:
+
+1.	Após realizar o acesso ao site através do login, o usuário deverá localizar no menu de navegação lateral a opção “Sugestões/Ajuda” e clicar neste campo;
+2.	Ao ser direcionado para a página com o formulário, o usuário deverá preencher as informações solicitadas nos campos do formulário;
+3.	Clicar no botão para envio das informações inseridas.
+
+Tela de Processos e POPs:
+
+1.	Após realizar o acesso ao site através do login o usuário deverá localizar no menu de navegação lateral o campo “Processos” ou “POP’s” e clicar neste campo;
+2.	Ao ser direcionado para a página que escolher o usuário deverá localizara o botão de “Selecionar Processo” ou “Selecionar POP” de acordo com a pagina escolhida, selecioná-lo clicando no botão e escolher um dos itens do dropdown clicando novamente no item escolhido.
+3.	Ao clicar no botão desejado ele poderá ler o processo ou o pop referente a um processo da empresa;
+4.	É possível realizar o download do PDF clicando no botão de download dentro do visualizador do PDF, quando for necessário;
+
 
 # Documentação
 
