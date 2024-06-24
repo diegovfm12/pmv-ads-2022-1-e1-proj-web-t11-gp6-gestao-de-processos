@@ -1,0 +1,24 @@
+message: O site está sendo desenvolvido para atuar como repositório de processos de negócios mapeados e respectivos procedimentos operacionais padrões.
+title: Gestao de Processos
+authors:
+  - family-names: Victor Fraga
+    given-names: Diego
+  - family-names: Liberado Ferreira
+    given-names: Renato
+  - family-names: Araruna de Lima 
+    given-names: Lia
+  - family-names: Xavier de Amorim
+    given-names: Armando
+  - family-names: Eduardo Tavares Costa
+    given-names: Luiz 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Assis Alves da Silva
+    given-names: Simone
+keywords:
+  - Processos
+  - Gestao
+  - Negocios
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t11-gp6-gestao-de-processos.git
+version: 1.0.0
+date-released: 2023-06-23
